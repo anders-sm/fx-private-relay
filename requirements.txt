@@ -16,7 +16,7 @@ djangorestframework==3.12.4
 django-waffle==2.3.0
 dockerflow==2022.1.0
 drf-yasg==1.20.0
-google-measurement-protocol==1.0.0
+google-measurement-protocol==1.1.0
 gunicorn==19.9.0
 jwcrypto==1.0
 markus[datadog]==4.0.0
